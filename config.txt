@@ -1,0 +1,5 @@
+##
+    Configuração do Git:
+        git config --global user.name AlanPinheiro96
+        git config --global user.email alantnt15@gmail.com
+##
